@@ -1,0 +1,20 @@
+{
+  "name": "genpark-fuzzy-tool-parameter-name-resolver-skill",
+  "version": "1.0.0",
+  "description": "Resolves misspelled or hallucinated parameter names against target JSON schema properties using Levenshtein distance",
+  "category": "Service",
+  "dependencies": [],
+  "topics": [
+    "mcp",
+    "fuzzy-parameters",
+    "tool-call-repair",
+    "parameter-resolver",
+    "levenshtein-distance",
+    "anti-hallucination",
+    "python-standard-library",
+    "agent-skills",
+    "schema-matching",
+    "resilience",
+    "developer-tools"
+  ]
+}
