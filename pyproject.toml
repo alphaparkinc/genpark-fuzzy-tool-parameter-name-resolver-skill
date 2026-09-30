@@ -1,0 +1,11 @@
+[build-system]
+requires = ["setuptools>=61.0"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "genpark-fuzzy-tool-parameter-name-resolver-skill"
+version = "1.0.0"
+description = "Resolves misspelled or hallucinated parameter names against target JSON schema properties using Levenshtein distance"
+readme = "README.md"
+requires-python = ">=3.9"
+dependencies = []
